@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchScreenShizz", "TouchScreenShizz\TouchScreenShizz\TouchScreenShizz.csproj", "{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchScreenShizzContent", "TouchScreenShizz\TouchScreenShizzContent\TouchScreenShizzContent.contentproj", "{E5DEDE49-CAFE-4B3D-9902-44A7552B497A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{8DA037CD-A017-44C1-B109-0B0EEADFD6B6}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{E5DEDE49-CAFE-4B3D-9902-44A7552B497A}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{E5DEDE49-CAFE-4B3D-9902-44A7552B497A}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
